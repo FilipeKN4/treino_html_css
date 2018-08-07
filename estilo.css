@@ -1,0 +1,30 @@
+body {
+    background-image: url(flanoticia.jpeg);
+    background-size: cover;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+        sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.place {
+    background-color: #FFF;
+    border-color: #000 #000 #000 #000;
+    border: 2px solid #000;
+    margin-bottom: 20px;
+    padding: 10px; 
+}
+
+.place h2 {
+    border-bottom: 1px dashed #000000;
+    margin: 0;
+}
+
+.place a {
+    color: #red ;
+    font-weight: bold;
+}
